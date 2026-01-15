@@ -3,7 +3,7 @@ Make normal string Blinds smart, using an ESP32 and a Servo Motor
 
 ### This config is for Homeassistant currently, but you could probably use arduino code or similar as well to control this.
 
-### The Build instructions are below, The code for an ESP32 and an ESP8266 are yaml files for ESPHome.
+### The Build instructions are below, The code files above for an ESP32 and an ESP8266 are yaml files for ESPHome.
 
 ## Build Instructions:
 - Buy an esp32 or esp8266, and a servo. Here are the links (non-affiliate):
