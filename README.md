@@ -1,5 +1,5 @@
 # Smart-Blinds
-Make normal string Blinds smart using an ESP32 and a Servo Motor
+Make normal string Blinds smart, using an ESP32 and a Servo Motor
 
 ### This config is for Homeassistant currently, but you could probably use arduino code or similar as well to control this.
 
@@ -20,6 +20,7 @@ Make normal string Blinds smart using an ESP32 and a Servo Motor
 - Connect the red wire from the servo to the VIN (5v) pin on the ESP
 - Connect the white wire to pin D1 on the ESP8266 or pin D22 on the ESP32 (These can be changed if you are willing to edit the code)
 - Connect the black wire to the GND (Ground) pin on the ESP
+- Refer to the "ESP32 Wiring.png" image above
 
 ### Step 2
 - Flash the ESP with ESPhome using Homeassistant or https://web.esphome.io/
